@@ -28,9 +28,7 @@ jobs:
 
       - name: Extract tag name
         id: tag
-        run: |
-          echo "TAG=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
-          echo "LOWERCASE_BACKEND_IMAGE_NAME=$(echo '${{ github.repository_owner }}' | tr '[:upper:]' '[:lower:]')/study-app-api" >> $GITHUB_OUTPUT
+        run: echo "TAG=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
 
       - name: Build and push Backend Docker image
         uses: docker/build-push-action@v5
