@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/abdulShukor/devops-study-app/compare/backend-v0.2.0...backend-v0.3.0) (2025-08-31)
+
+
+### Features
+
+* **backend:** add dcoker image pushing ([#14](https://github.com/abdulShukor/devops-study-app/issues/14)) ([633cb84](https://github.com/abdulShukor/devops-study-app/commit/633cb84859e300bd9d95c779df77b2b56f472587))
+
 ## [0.2.0](https://github.com/abdulShukor/devops-study-app/compare/backend-v0.1.0...backend-v0.2.0) (2025-08-31)
 
 
