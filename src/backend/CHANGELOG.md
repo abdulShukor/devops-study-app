@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/abdulShukor/devops-study-app/compare/backend-v0.3.0...backend-v0.4.0) (2025-08-31)
+
+
+### Features
+
+* **backend:** add docker image pushing ([#16](https://github.com/abdulShukor/devops-study-app/issues/16)) ([5b3ed15](https://github.com/abdulShukor/devops-study-app/commit/5b3ed1587e6d6c9cae33f347eec75a6d427986b3))
+
 ## [0.3.0](https://github.com/abdulShukor/devops-study-app/compare/backend-v0.2.0...backend-v0.3.0) (2025-08-31)
 
 
