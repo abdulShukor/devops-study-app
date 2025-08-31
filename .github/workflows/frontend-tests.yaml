@@ -19,7 +19,7 @@ jobs:
               - '.github/workflows/frontend-tests.yaml'
 
   test:
-    name: Test Fronted
+    name: Test Frontend
     needs: check_paths
     if: ${{ needs.check_paths.outputs.should_run == 'true' }}
     runs-on: ubuntu-latest
