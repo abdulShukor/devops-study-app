@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.0](https://github.com/abdulShukor/devops-study-app/compare/backend-v0.1.0...backend-v0.2.0) (2025-09-01)
+
+
+### Features
+
+* **backend:** backend please release ([#25](https://github.com/abdulShukor/devops-study-app/issues/25)) ([a1272a8](https://github.com/abdulShukor/devops-study-app/commit/a1272a8389e7898f8a5da3c627ef626c0a587840))
+* **frontend-and-backend:** add auomated image buidling ([#22](https://github.com/abdulShukor/devops-study-app/issues/22)) ([a449c55](https://github.com/abdulShukor/devops-study-app/commit/a449c55309cbbc47e887bce77f7bc295973df40e))
+
 ## 0.1.0 (2025-09-01)
 
 
