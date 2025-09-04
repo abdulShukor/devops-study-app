@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.5](https://github.com/abdulShukor/devops-study-app/compare/backend-v0.3.4...backend-v0.3.5) (2025-09-04)
+
+
+### Bug Fixes
+
+* **ci:** backend ([2f51b1a](https://github.com/abdulShukor/devops-study-app/commit/2f51b1a3ad2ded333c9eabad23bac8c31ba164fb))
+
 ## [0.3.4](https://github.com/abdulShukor/devops-study-app/compare/backend-v0.3.3...backend-v0.3.4) (2025-09-04)
 
 
