@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/abdulShukor/devops-study-app/compare/backend-v0.3.0...backend-v0.3.1) (2025-09-04)
+
+
+### Bug Fixes
+
+* **backend:** trigger ci ([40cb152](https://github.com/abdulShukor/devops-study-app/commit/40cb152cae76ed38b9b1f47421ad27def423868a))
+
 ## [0.3.0](https://github.com/abdulShukor/devops-study-app/compare/backend-v0.2.0...backend-v0.3.0) (2025-09-01)
 
 
